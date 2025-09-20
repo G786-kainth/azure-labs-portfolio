@@ -39,7 +39,7 @@ Each project demonstrates skills in **VM deployment, networking, firewalls, VPN,
 
 ---
 
-## 🔹 Skills Gained
+##  Skills Gained
 - Azure Virtual Networks (VNets & Subnets)  
 - NSGs & ASGs for traffic filtering  
 - Azure Firewall rule management  
@@ -50,4 +50,4 @@ Each project demonstrates skills in **VM deployment, networking, firewalls, VPN,
 
 ---
 
-📌 **This portfolio demonstrates my ability to deploy, secure, and monitor Azure resources in a real-world environment.**
+**This portfolio demonstrates my ability to deploy, secure, and monitor Azure resources in a real-world environment.**
